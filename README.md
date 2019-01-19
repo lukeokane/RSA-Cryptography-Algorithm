@@ -6,6 +6,6 @@ The implementation in this project is designed for a user to input their own mes
 ## Brief explanation
 - Entity creates public and private keys
 - User retrieves the public key
-- User enters message, encrypts it with public key and sends to server
-- Entity receives message and decrypts using private key.
+- User enters a message, encrypts it with the public key and sends it to server
+- Entity receives the message and decrypts it using the private key.
 
