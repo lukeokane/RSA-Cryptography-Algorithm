@@ -22,7 +22,7 @@ public final class Server
     private BigInteger phiNum;
     private BigInteger e;
     private BigInteger d;
-    private int BIT_LENGTH = 2046;
+    private int BIT_LENGTH = 2048;
     //Allows 256 characters to be inputted e.g BIT_LENGTH = 2048 / 8 = 256
 
     public Server()
